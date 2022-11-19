@@ -1,0 +1,6 @@
+{
+  "name": "My Node Application in development",
+  "mail": {
+    "host": "dev-mail-sender"
+  }
+}
